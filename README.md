@@ -1,15 +1,15 @@
 # 👋 Hi, I'm S M Jiko
 
-🎖️ Active Duty U.S. Army | 💻 Full Stack Web Developer Apprentice  
+🎖️ U.S. Army Veteran | 💻 Full Stack Web Developer Apprentice  
 📚 MS in Computing | ⚙️ JavaScript • React • Git • HTML/CSS
 
 ---
 
 ## 🚀 About Me
 
-I'm an Active Duty U.S. Army soldier transitioning into the tech world with a focus on **Full Stack Web Development**, **Cybersecurity**, and **AI**.
+I'm an U.S. Army veteran transitioning into the tech world with a focus on **Full Stack Web Development**, **Machine Learnin g**, and **AI**.
 
-Currently completing my **MS in Computing** at Wichita State University while working as a **Full Stack Web Developer Apprentice** at **Era Solutions**, where I’m building real-world projects using modern web technologies.
+I have completed **MS in Computing** at Wichita State University. i am working as a **Full Stack Web Developer Apprentice** at **Era Solutions**, where I’m building real-world projects using modern web technologies.
 
 ---
 
@@ -37,9 +37,8 @@ As a **Power Generation Equipment Specialist (91D)** in the U.S. Army, I’ve de
 
 ## 🎓 Education & Certifications
 
-- 🎓 **MS in Computing**, Wichita State University *(in progress)*  
-- 💻 **HTML/CSS Certification**, Era Solutions Apprenticeship  
-- 📘 Currently enrolled in JavaScript and React courses  
+- 🎓 **MS in Computing**, Wichita State University *(May 2026)*  
+- 💻 **HTML/CSS/JavaScript Certification**, Era Solutions Apprenticeship    
 - 📅 SkillBridge internship (Fall 2025) — IT Specialist @ Kansas State University
 
 ---
@@ -61,4 +60,4 @@ As a **Power Generation Equipment Specialist (91D)** in the U.S. Army, I’ve de
 - 💬 Ask me about: Career transition from the military to tech, HTML/CSS/JavaScript, React, or Git
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/itzjiko) | itzjiko99@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m an Army soldier building a new career in tech — mission-ready for code!
+- ⚡ Fun fact: A veteran building a new career in tech — mission-ready for code!
